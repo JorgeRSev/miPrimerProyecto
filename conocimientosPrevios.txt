@@ -1,2 +1,3 @@
 Conocimientos previos:
   - Conocimientos básicos de iniciación en java
+  - Principios básicos de HTML y CSS
