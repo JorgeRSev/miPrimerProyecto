@@ -1,1 +1,2 @@
-Objetivos a cumplir en este máster: 
+Objetivos a cumplir en este máster:
+  - Aprender y desarrollarme como full stack developer
